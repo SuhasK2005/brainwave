@@ -1,7 +1,7 @@
 import React from "react";
 
 const Benefits = () => {
-  return <div>Benefits</div>;
+  return <sections>Benefits</sections>
 };
 
 export default Benefits;
